@@ -1,2 +1,2 @@
 # ProgresBelajarku
-progres ini berisi pengalaman belajarku di dicoding
+progres ini berisi pengalaman belajarku di Dicoding
