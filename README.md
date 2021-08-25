@@ -1,7 +1,7 @@
 # ProgresBelajarku
 progres ini berisi pengalaman belajarku di Dicoding
 
-1 Agustus 2021
+**1 Agustus 2021**
 
 Belajar kelas Memulai Pemrograman dengan Python. (Progres 21%)
 
@@ -10,7 +10,7 @@ Belajar kelas Memulai Pemrograman dengan Python. (Progres 21%)
   * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Python.
     
 
-2 Agustus 2021
+**2 Agustus 2021**
 
 Belajar kelas Memulai Pemrograman dengan Python. (Progres 56%)
 
